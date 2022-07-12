@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou o Daniel</h1>
-<h3 align="center">Sou apaixonado por analise de dados e desenvolver insights produzindo informações valiosas</h3>
+<h3 align="center">Sou um grande entusiasta da analise de dados e de desenvolver insights produzindo informações valiosas </h3>
 
-- 🌱 Atualmente estou aprendendo PytHon e Machine Learning**
+- 🌱 Atualmente estou aprendendo Python e Machine Learning**
 
 - Me pergunte sobre **SQL, Power BI, Python**
 
