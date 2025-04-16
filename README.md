@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, eu sou o Daniel</h1>
-<h3 align="center">Sou um grande entusiasta da analise de dados e de desenvolver insights produzindo informações valiosas </h3>
+<h3 align="center">Garantindo a qualidade e o bom funcionamento de um produto </h3>
 
-- 🌱 Atualmente estou aprendendo Python e Machine Learning**
+- 🌱 Atualmente desenvolvenedo automação de testes**
 
-- Me pergunte sobre **SQL, Power BI, Python**
+- Me pergunte sobre **Automação de Testes, DevOps e Ágil**
 
 - Você me acha através do e-mail **lima.daniel14@gmail.com**
 
