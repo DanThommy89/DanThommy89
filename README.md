@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou o Daniel</h1>
 <h3 align="center">Garantindo a qualidade e o bom funcionamento de um produto </h3>
 
-- 🌱 Atualmente desenvolvenedo automação de testes**
+- 🌱 Atualmente desenvolvendo automação de testes**
 
 - Me pergunte sobre **Automação de Testes, DevOps e Ágil**
 
